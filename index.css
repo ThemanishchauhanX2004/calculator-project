@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(https://img.freepik.com/free-vector/modern-desktop-background-geometric-blue-design-vector_53876-135923.jpg?semt=ais_hybrid); 
+    background: url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=1024x1024&w=0&k=20&c=z8_rWaI8x4zApNEEG9DnWlGXyDIXe-OmsAyQ5fGPVV8=); 
     background-size: cover;
     }
 
@@ -21,7 +21,7 @@ body{
         border: 2px solid black;
         border-radius: 16px;
         box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.8);
-        background: rgba(0, 0, 0, 0.5);
+        background: peru;
     }
 
     input{
@@ -62,14 +62,14 @@ body{
 
     button:hover{
         color: #fff;
-        background: #f67c14;
+        background: lightblue;
     }
 
     .equalBnt{
-        background-color: #f67c14;
+        background-color: purple;
     }
 
     .operator{
-        background-color: #f67c14;
+        background-color: purple;
     }
    
