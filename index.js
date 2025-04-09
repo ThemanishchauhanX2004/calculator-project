@@ -19,12 +19,12 @@ buttonsArray.forEach(function(btn){
     btn.addEventListener("click",function(event){
 
         if(event.target.innerHTML == "DEL"){
-            playClickSound()
+            playClickSound();
             string = string.substring(0, string.length-1);
             display.value = string;
         }
         else if(event.target.innerHTML == "AC"){
-            playClickSound()
+            playClickSound();
             string = ""
             display.value = string;
         }
